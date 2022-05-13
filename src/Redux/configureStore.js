@@ -12,4 +12,3 @@ const store = createStore(
 
 store.dispatch(fetchmessage());
 export default store;
-
