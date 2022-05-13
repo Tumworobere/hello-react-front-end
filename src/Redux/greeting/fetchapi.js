@@ -30,4 +30,3 @@ export const fetchmessage = () => async (dispatch) => {
 };
 
 export default messageReducer;
-
